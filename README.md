@@ -97,3 +97,4 @@ A linguagem de programação Pascal foi desenvolvida pelo cientista da computaç
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.freepascal.org/docs.html)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PASCAL)
