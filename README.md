@@ -96,5 +96,6 @@ A linguagem de programação Pascal foi desenvolvida pelo cientista da computaç
 - [CURSO CRIADO PELO "PROGRAMME"](https://www.youtube.com/playlist?list=PLIz6mntaZSG1aTBEg1g6RkBO5HZALcGy-)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.freepascal.org/docs.html)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PASCAL)
